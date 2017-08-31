@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Contact Form 7 - DatePicker ===
 Contributors: shockware, baden03, szepe.viktor, xsonic, sanidm, imelgrat
 Tags: wordpress, datepicker, timepicker, date, time, calendar, contact form 7, forms, jqueryui
 Requires at least: 3.6.1
